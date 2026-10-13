@@ -1,14 +1,20 @@
-# My First Repo
+# My First Repo - Calculator Project
 
-Hi! I'm Chandrahas. This is my first GitHub repository.
+Hi! I'm Chandrahas. This is my first GitHub repository - built on October 13, 2026.
 
-## What I learned today
-- How to create a repo on GitHub
-- How to rename a repository
-- How to add a README file
-- How to commit changes
+## 🚀 Project: Python Calculator
+I built a working calculator in Python!
 
-## My Goals
-I will add my first Python code (`main.py`) soon!
+File: `calculator13october.py`
 
-Created on: October 13, 2026
+### Features
+- Addition (+), Subtraction (-), Multiplication (*), Division (/)
+- Handles Divide by Zero error
+- Loop system - keeps calculating until you type 0 to exit
+- User-friendly Terminal interface
+
+### How to Run
+1. Download `calculator13october.py`
+2. Open in VS Code
+3. Run: `python calculator13october.py` in Terminal
+4. Example:
