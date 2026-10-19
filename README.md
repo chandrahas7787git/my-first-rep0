@@ -13,8 +13,4 @@ File: `calculator13october.py`
 - Loop system - keeps calculating until you type 0 to exit
 - User-friendly Terminal interface
 
-### How to Run
-1. Download `calculator13october.py`
-2. Open in VS Code
-3. Run: `python calculator13october.py` in Terminal
-4. Example:
+
