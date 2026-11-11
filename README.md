@@ -8,9 +8,9 @@ I built a working calculator in Python!
 File: `calculator13october.py`
 
 ### Features
-- Addition (+), Subtraction (-), Multiplication (*), Division (/)
-- Handles Divide by Zero error
-- Loop system - keeps calculating until you type 0 to exit
-- User-friendly Terminal interface
+i. Addition (+), Subtraction (-), Multiplication (*), Division (/)
+ii. Handles Divide by Zero error
+iii. Loop system - keeps calculating until you type 0 to exit
+iv. User-friendly Terminal interface
 
 
